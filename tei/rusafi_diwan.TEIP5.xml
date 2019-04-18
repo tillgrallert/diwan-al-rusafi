@@ -116,7 +116,9 @@
         <front change="#d2e208" xml:id="front_1.d2e215"/>
         <body change="#d2e208" xml:id="body_1.d2e217">
             <div change="#d2e208" n="1" subtype="verse" type="item" xml:id="div_1.d2e219">
-                <head change="#d2e208" xml:id="head_1.d2e221">العالم سعر</head>
+                <head change="#d2e208" xml:id="head_1.d2e221">العالم شعر</head>
+                <!-- originally published by al-Muqtabas -->
+                <xi:include href="https://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_14.TEIP5.xml" parse="xml" xpointer="div_7.d1e1428"/>
             </div>
             <div change="#d2e208" n="2" subtype="verse" type="item" xml:id="div_2.d2e225">
                 <head change="#d2e208" xml:id="head_2.d2e227">بي الارض </head>
@@ -135,6 +137,8 @@
             </div>
             <div change="#d2e208" n="7" subtype="verse" type="item" xml:id="div_7.d2e256">
                 <head change="#d2e208" xml:id="head_7.d2e258">الارض</head>
+                <!-- originally published by al-Muqtabas -->
+                <xi:include href="https://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_13.TEIP5.xml" parse="xml" xpointer="div_9.d1e1285"/>
             </div>
             <div change="#d2e208" n="8" subtype="verse" type="item" xml:id="div_8.d2e262">
                 <head change="#d2e208" xml:id="head_8.d2e264">المطلقة</head>
@@ -213,6 +217,8 @@
             <div change="#d2e208" n="31" subtype="verse" type="item" xml:id="div_31.d2e414">
                 <head change="#d2e208" xml:id="head_31.d2e416">في 
                     <placeName change="#d5e197 #d2e208" ref="oape:place:236 geon:734077" xml:id="placeName_6.d2e418">سلانيك</placeName></head>
+                <!-- originally published by al-Muqtabas -->
+                <xi:include href="https://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_39.TEIP5.xml" parse="xml" xpointer="div_5.d1e1387"/>
             </div>
             <div change="#d2e208" n="32" subtype="verse" type="item" xml:id="div_32.d2e422">
                 <head change="#d2e208" xml:id="head_32.d2e424">وقفة عند 
@@ -220,9 +226,13 @@
             </div>
             <div change="#d2e208" n="33" subtype="verse" type="item" xml:id="div_33.d2e430">
                 <head change="#d2e208" xml:id="head_33.d2e432">تموز الحرية</head>
+                <!-- originally published by al-Muqtabas -->
+                <xi:include href="https://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_40.TEIP5.xml" parse="xml" xpointer="div_14.d1e2780"/>
             </div>
             <div change="#d2e208" n="34" subtype="verse" type="item" xml:id="div_34.d2e436">
                 <head change="#d2e208" xml:id="head_34.d2e438">المجلس العمومي</head>
+                <!-- originally published by al-Muqtabas -->
+                <xi:include href="https://www.sitzextase.de/digital-muqtabas/xml/oclc_4770057679-i_35.TEIP5.xml" parse="xml" xpointer="div_3.d1e696"/>
             </div>
             <div change="#d2e208" n="35" subtype="verse" type="item" xml:id="div_35.d2e442">
                 <head change="#d2e208" xml:id="head_35.d2e444">الغروب</head>
