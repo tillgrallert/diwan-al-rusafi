@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ar-Latn-x-ijmes">Diwān al-Ruṣāfī</title>
+                <title type="sub" xml:lang="en">TEI edition</title>
+                <author>
+                    <persName xml:lang="ar-Latn-x-ijmes">Maʿrūf Efendi al-Ruṣāfī</persName>
+                </author>
+                <editor>
+                    <persName xml:lang="ar-Latn-x-ijmes">Muḥiyī al-Dīn al-Khayyāṭ</persName>
+                </editor>
+                <editor>
+                    <persName xml:lang="ar-Latn-x-ijmes">al-Shaykh Muṣṭafā al-Ghalāyinī</persName>
+                </editor>
+                <respStmt xml:lang="en">
+                    <resp xml:lang="en">TEI edition</resp>
+                    <persName xml:lang="en">Till Grallert</persName>
+                </respStmt>
+                <respStmt xml:lang="en">
+                    <resp xml:lang="en">Transcription of the 
+                        <foreign xml:lang="ar-Latn-x-ijmes">fihris</foreign></resp>
+                    <persName xml:lang="tr">Dilan Hatun</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority xml:lang="en">
+                    <persName xml:lang="en">Till Grallert</persName>
+                </authority>
+                <pubPlace xml:lang="en">Beirut</pubPlace>
+                <date when="2019" xml:lang="en">2019</date>
+                <availability status="restricted" xml:lang="en">
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+                </availability>
+                <idno type="url" xml:lang="en">https://github.com/OpenArabicPE/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:lang="en">
+                    <monogr>
+                        <title level="m" xml:lang="ar">ديوان الرصافي</title>
+                        <title level="m" type="sub" xml:lang="ar">وهو مجموع ما نظمه الشاعر الاجتماعي الكبير معروف افندي الرصافي البغدادي</title>
+                        <title level="m" xml:lang="ar-Latn-x-ijmes">Dīwān al-Ruṣāfī</title>
+                        <title level="m" type="sub" xml:lang="ar-Latn-x-ijmes">wa-huwwa majmūʿ mā naẓamahu al-shāʿir al-ijtimāʿī al-kabīr Maʿrūf Efendī al-Ruṣāfī al-Baghdādī</title>
+                        <idno type="OCLC"></idno>
+                        <author>
+                            <persName xml:lang="ar">معروف افندي الرصافي</persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">Maʿrūf Efendi al-Ruṣāfī</persName>
+                        </author>
+                        <editor>
+                            <persName xml:lang="ar">محيي الدين الخياط</persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">Muḥiyī al-Dīn al-Khayyāṭ</persName>
+                        </editor>
+                        <editor>
+                            <persName xml:lang="ar">الشيخ مصطفى الغلايني</persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">al-Shaykh Muṣṭafā al-Ghalāyinī</persName>
+                        </editor>
+                        <imprint>
+                            <publisher>
+                                <orgName xml:lang="ar">المطبعة الاهلية</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes">al-Maṭbaʿa al-Ahliyya</orgName>
+                            </publisher>
+                            <pubPlace>
+                                <placeName xml:lang="ar">بيروت</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+                            </pubPlace>
+                            <date when="1910" xml:lang="ar">١٩١٠</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc xml:lang="en">
+            <change who="#pers_TG" when="2019-04-18">Created the file.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="ar">
+        <front/>
+        <body>
+            <div n="1" subtype="verse" type="item">
+                <head>العالم سعر</head>
+            </div>
+            <div n="2" subtype="verse" type="item">
+                <head>بي الارض </head>
+            </div>
+            <div n="3" subtype="verse" type="item">
+                <head>من اين الى اين</head>
+            </div>
+            <div n="4" subtype="verse" type="item">
+                <head>نحن على منطاد</head>
+            </div>
+            <div n="5" subtype="verse" type="item">
+                <head>كلمة معتبر</head>
+            </div>
+            <div n="6" subtype="verse" type="item">
+                <head>الكني ياضياء</head>
+            </div>
+            <div n="7" subtype="verse" type="item">
+                <head>الارض</head>
+            </div>
+            <div n="8" subtype="verse" type="item">
+                <head>المطلقة</head>
+            </div>
+            <div n="9" subtype="verse" type="item">
+                <head>السجن في 
+                    
+                    <placeName>بغداد</placeName></head>
+            </div>
+            <div n="10" subtype="verse" type="item">
+                <head>الفقر و السقام</head>
+            </div>
+            <div n="11" subtype="verse" type="item">
+                <head>اليتيم المخدوع</head>
+            </div>
+            <div n="12" subtype="verse" type="item">
+                <head>تنبيه النيام</head>
+            </div>
+            <div n="13" subtype="verse" type="item">
+                <head>إيقاظ الرقود</head>
+            </div>
+            <div n="14" subtype="verse" type="item">
+                <head>اليتيم في العيد</head>
+            </div>
+            <div n="15" subtype="verse" type="item">
+                <head>ميت الأحياء و حي الاموات</head>
+            </div>
+            <div n="16" subtype="verse" type="item">
+                <head>امة الشرق او نحن في 
+                    
+                    <placeName>بغداد</placeName></head>
+            </div>
+            <div n="17" subtype="verse" type="item">
+                <head>رقية الصريع</head>
+            </div>
+            <div n="18" subtype="verse" type="item">
+                <head>سوء المنقلب</head>
+            </div>
+            <div n="19" subtype="verse" type="item">
+                <head>العادات قاهرات</head>
+            </div>
+            <div n="20" subtype="verse" type="item">
+                <head>ام اليتيم</head>
+            </div>
+            <div n="21" subtype="verse" type="item">
+                <head>سياسة لا حماسة</head>
+            </div>
+            <div n="22" subtype="verse" type="item">
+                <head>بعد الاستور، سقوط 
+                    
+                    <persName>كامل باشا</persName></head>
+            </div>
+            <div n="23" subtype="verse" type="item">
+                <head>صديق المضاع</head>
+            </div>
+            <div n="24" subtype="verse" type="item">
+                <head>مثنيات شعرية</head>
+            </div>
+            <div n="25" subtype="verse" type="item">
+                <head>بعد البين</head>
+            </div>
+            <div n="26" subtype="verse" type="item">
+                <head>جالينوس العرب او 
+                    
+                    <persName>ابو بكر الرازي</persName></head>
+            </div>
+            <div n="27" subtype="verse" type="item">
+                <head>الحرب في البحر</head>
+            </div>
+            <div n="28" subtype="verse" type="item">
+                <head>هلا كو و المستعصم</head>
+            </div>
+            <div n="29" subtype="verse" type="item">
+                <head>ابو دلامة و المستقبل</head>
+            </div>
+            <div n="30" subtype="verse" type="item">
+                <head>اطلال العلم او المدرسة الظامية في 
+                    
+                    <placeName>بغداد</placeName></head>
+            </div>
+            <div n="31" subtype="verse" type="item">
+                <head>في 
+                    
+                    <placeName>سلانيك</placeName></head>
+            </div>
+            <div n="32" subtype="verse" type="item">
+                <head>وقفة عند 
+                    
+                    <placeName xml:lang="ota">يلدز</placeName></head>
+            </div>
+            <div n="33" subtype="verse" type="item">
+                <head>تموز الحرية</head>
+            </div>
+            <div n="34" subtype="verse" type="item">
+                <head>المجلس العمومي</head>
+            </div>
+            <div n="35" subtype="verse" type="item">
+                <head>الغروب</head>
+            </div>
+            <div n="36" subtype="verse" type="item">
+                <head>ليلة في ملهى</head>
+            </div>
+            <div n="37" subtype="verse" type="item">
+                <head>في القطار</head>
+            </div>
+            <div n="38" subtype="verse" type="item">
+                <head>الجرائد و ما كانت عليه في 
+                    
+                    <placeName>الاستانة</placeName></head>
+            </div>
+            <div n="39" subtype="verse" type="item">
+                <head>وقفة في الروض</head>
+            </div>
+            <div n="40" subtype="verse" type="item">
+                <head>ما رأيت في 
+                    
+                    <placeName xml:lang="ota">بك اوغلى</placeName></head>
+            </div>
+            <div n="41" subtype="verse" type="item">
+                <head>الساعة</head>
+            </div>
+            <div n="42" subtype="verse" type="item">
+                <head>السد في 
+                    
+                    <placeName>بغداد</placeName></head>
+            </div>
+            <div n="43" subtype="verse" type="item">
+                <head>ذكرى 
+                    
+                    <placeName>لبنان</placeName></head>
+            </div>
+            <div n="45" subtype="verse" type="item">
+                <head>قصر البحر</head>
+            </div>
+            <div n="46" subtype="verse" type="item">
+                <head>وصف البدر عند الافرنج</head>
+            </div>
+            <div n="47" subtype="verse" type="item">
+                <head>محاسن الطبيعة</head>
+            </div>
+            <div n="48" subtype="verse" type="item">
+                <head>ليلة في 
+                    
+                    <placeName>دمشق</placeName></head>
+            </div>
+            <div n="49" subtype="verse" type="item">
+                <head>حول 
+                    
+                    <placeName>بوسفور</placeName></head>
+            </div>
+            <div n="50" subtype="verse" type="item">
+                <head>اسمعي لي كلاما</head>
+            </div>
+            <div n="51" subtype="verse" type="item">
+                <head>في عود تكسر</head>
+            </div>
+            <div n="52" subtype="verse" type="item">
+                <head>يطلب جلنار</head>
+            </div>
+            <div n="53" subtype="verse" type="item">
+                <head>ضاق الخناق</head>
+            </div>
+            <div n="54" subtype="verse" type="item">
+                <head>ايتها الكعاب</head>
+            </div>
+            <div n="55" subtype="verse" type="item">
+                <head>هجاء بعض المرائين من المشايخ</head>
+            </div>
+            <div n="56" subtype="verse" type="item">
+                <head>جاهل متكبر</head>
+            </div>
+            <div n="57" subtype="verse" type="item">
+                <head>فاسق مراء</head>
+            </div>
+            <div n="57" subtype="verse" type="item">
+                <head>الطفل الملتحي</head>
+            </div>
+            <div n="58" subtype="verse" type="item">
+                <head>ايها المشنوق</head>
+            </div>
+            <div n="59" subtype="verse" type="item">
+                <head>الارض</head>
+            </div>
+            <div n="60" subtype="verse" type="item">
+                <head>جواب على كتاب</head>
+            </div>
+            <div n="61" subtype="verse" type="item">
+                <head>الغنى غنى النفس</head>
+            </div>
+            <div n="62" subtype="verse" type="item">
+                <head>و قال</head>
+            </div>
+            <div n="63" subtype="verse" type="item">
+                <head>شكر على صنيع</head>
+            </div>
+            <div n="64" subtype="verse" type="item">
+                <head>و قال</head>
+            </div>
+            <div n="65" subtype="verse" type="item">
+                <head>ليالي الانس</head>
+            </div>
+            <div n="66" subtype="verse" type="item">
+                <head>الشمس</head>
+            </div>
+            <div n="67" subtype="verse" type="item">
+                <head>رئيس الدائنية</head>
+            </div>
+            <div n="68" subtype="verse" type="item">
+                <head>راقم و ما ادراك ما راقم</head>
+            </div>
+            <div n="69" subtype="verse" type="item">
+                <head>تأثير التربية</head>
+            </div>
+            <div n="70" subtype="verse" type="item">
+                <head>بين اليأس و الرجاء</head>
+            </div>
+            <div n="71" subtype="verse" type="item">
+                <head>نقش على ماء</head>
+            </div>
+            <div n="72" subtype="verse" type="item">
+                <head>هوّة الموت</head>
+            </div>
+            <div n="73" subtype="verse" type="item">
+                <head>و قال</head>
+            </div>
+            <div n="74" subtype="verse" type="item">
+                <head>و قال</head>
+            </div>
+            <div n="75" subtype="verse" type="item">
+                <head>المكتب</head>
+            </div>
+            <div n="76" subtype="verse" type="item">
+                <head>اقبلت في غلائل</head>
+            </div>
+            <div n="77" subtype="verse" type="item">
+                <head>كل امرئ و صديقة</head>
+            </div>
+            <div n="78" subtype="verse" type="item">
+                <head>النفس الامارة</head>
+            </div>
+            <div n="79" subtype="verse" type="item">
+                <head>الانس في غير موضعه كدر</head>
+            </div>
+            <div n="90" subtype="verse" type="item">
+                <head>و قال</head>
+            </div>
+            <div n="91" subtype="verse" type="item">
+                <head>البصره</head>
+            </div>
+            <div n="92" subtype="verse" type="item">
+                <head>الحرّ في اغستوس</head>
+            </div>
+            <div n="93" subtype="verse" type="item">
+                <head>البرد في كانون</head>
+            </div>
+            <div n="94" subtype="verse" type="item">
+                <head>معلقة</head>
+            </div>
+            <div n="95" subtype="verse" type="item">
+                <head>من قصيدة</head>
+            </div>
+            <div n="96" subtype="verse" type="item">
+                <head>في هجاء بعضهم</head>
+            </div>
+            <div n="97" subtype="verse" type="item">
+                <head>ايضاً</head>
+            </div>
+            <div n="98" subtype="verse" type="item">
+                <head>في المسرح</head>
+            </div>
+            <div n="99" subtype="verse" type="item">
+                <head>شكر و وداع</head>
+            </div>
+            <div n="100" subtype="verse" type="item">
+                <head>النشيد الوطني</head>
+            </div>
+        </body>
+        <back/>
+    </text>
+</TEI>
