@@ -221,7 +221,7 @@
             <div change="#d2e208" n="24" subtype="verse" type="item" xml:id="div_24.d2e367">
                 <head change="#d2e208" xml:id="head_24.d2e369">مثنيات شعرية</head>
                 <!-- originally published by al-Muqtabas -->
-                <xi:include href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_33TEIP5.xml" parse="xml" xpointer="div_5.d1e1329"/>
+                <xi:include href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_33.TEIP5.xml" parse="xml" xpointer="div_5.d1e1329"/>
             </div>
             <div change="#d2e208" n="25" subtype="verse" type="item" xml:id="div_25.d2e373">
                 <head change="#d2e208" xml:id="head_25.d2e375">بعد البين</head>
