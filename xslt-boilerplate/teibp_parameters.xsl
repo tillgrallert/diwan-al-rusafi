@@ -17,7 +17,7 @@
     <!-- import the standard TEI Boilerplate stylesheets -->
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_main.xsl"/>
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_sourcedesc.xsl"/>
-    <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/xml-to-string.xsl"/>
+    <!-- <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/xml-to-string.xsl"/> -->
     <!-- import the stylesheet formatting all bibliographic metadata -->
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_bibl.xsl"/>
     <!-- import the stylesheet dealing with the display of <pb> and facsimiles -->
@@ -39,11 +39,11 @@
     <xsl:param name="p_lang-interface-same-as-text" select="false()"/>
     <!-- select the colour scheme for heads; currently available options: red, blue, green -->
     <xsl:param name="p_color-scheme" select="'blue'"/>
+    <!-- parameter to select the mimeType. In some cases tiff might be more efficient than jpeg -->
+    <xsl:param name="p_mimetype" select="'image/tiff'"/>
     
     <!-- original TEI Boilerplate stuff -->
     <xsl:param name="teibpHome" select="'http://dcl.slis.indiana.edu/teibp/'"/>
-    <xsl:param name="includeToolbox" select="false()"/>
-    <xsl:param name="includeAnalytics" select="false()"/>
     
     <!-- special characters -->
     <xsl:param name="quot">
