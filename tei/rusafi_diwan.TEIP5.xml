@@ -307,6 +307,8 @@
             <div change="#d2e208" n="43" subtype="verse" type="item" xml:id="div_43.d2e498">
                 <head change="#d2e208" xml:id="head_43.d2e500">ذكرى 
                     <placeName change="#d5e197 #d2e208" ref="oape:place:203 geon:273607" xml:id="placeName_11.d2e502">لبنان</placeName></head>
+                <!-- published by al-Zuhūr  -->
+                <xi:include href="../../../OpenArabicPE/journal_al-zuhur/tei/oclc_1034545644-i_6.TEIP5.xml" parse="xml" xpointer="div_1.d2e2334"/>
             </div>
             <div change="#d2e208" n="45" subtype="verse" type="item" xml:id="div_44.d2e506">
                 <head change="#d2e208" xml:id="head_44.d2e508">قصر البحر</head>
