@@ -40,6 +40,8 @@
                         <title change="#d2e208" level="m" type="sub" xml:id="title_6.d2e98" xml:lang="ar-Latn-x-ijmes"
                             >wa-huwwa majmūʿ mā naẓamahu al-shāʿir al-ijtimāʿī al-kabīr Maʿrūf Efendī al-Ruṣāfī al-Baghdādī</title>
                         <idno change="#d2e208" type="OCLC" xml:id="idno_2.d2e101">4770928968</idno>
+                        <idno type="OCLC">67308161</idno>
+                        <idno type="OCLC">4771033548</idno>
                         <author change="#d2e208 #d2e243" xml:id="author_2.d2e104" xml:lang="en"> <persName change="#d2e161 #d2e208" ref="oape:pers:411 viaf:14924300" xml:id="persName_7.d2e106"
                             xml:lang="ar"> <forename change="#d2e208 #d2e243" xml:id="forename_1.d2e108" xml:lang="ar">معروف</forename> <roleName change="#d2e208 #d2e243" type="title"
                             xml:id="roleName_1.d2e111" xml:lang="ar">افندي</roleName> <surname change="#d2e208 #d2e243" xml:id="surname_1.d2e114" xml:lang="ar">الرصافي</surname> </persName> <persName
@@ -60,6 +62,7 @@
                             <date change="#d2e208" type="official" when="1910" xml:id="date_2.d2e173" xml:lang="ar">١٩١٠</date>
                             <date calendar="#cal_islamic" change="#d2e230" datingMethod="#cal_islamic" type="official" when-custom="1328" xml:id="date_3.d2e178" xml:lang="ar">١٣٢٨</date>
                         </imprint>
+                        <biblScope unit="page" from="1" to="232" xml:lang="en">232 pages</biblScope>
                     </monogr>
                 </biblStruct>
             </sourceDesc>
@@ -90,16 +93,16 @@
             <p change="#d2e230 #d2e243" xml:id="p_1.d2e239" xml:lang="en">According to <bibl change="#d2e230 #d2e243" xml:id="bibl_1.d2e241" xml:lang="en"><author change="#d2e230 #d2e243"
                 xml:id="author_3.d2e242" xml:lang="en"><persName change="#d2e230 #d2e243" xml:id="persName_13.d2e243" xml:lang="ar-Latn-x-ijmes"
                 >Ilyān Sarkīs</persName></author></bibl>, this first Dīwān of <persName change="#d2e230 #d2e243" xml:id="persName_14.d2e246" xml:lang="ar-Latn-x-ijmes">al-Ruṣāfī</persName>'s <foreign
-                change="#d2e230 #d2e243" xml:id="foreign_2.d2e249" xml:lang="ar-Latn-x-ijmes">qaṣāʾid</foreign> was published in 1910. This claim is supported by an article in <ref change="#d2e230 #d2e243"
-                target="https://openarabicpe.github.io/digital-muqtabas/xml/oclc_4770057679-i_45.TEIP5.xml#div_5.d1e1088" xml:id="ref_1.d2e252" xml:lang="en"><bibl change="#d2e230 #d2e243"
-                xml:id="bibl_2.d2e253" xml:lang="en"><title change="#d2e230 #d2e243" level="j" xml:id="title_7.d2e254" xml:lang="ar-Latn-x-ijmes"
+                change="#d2e230 #d2e243" xml:id="foreign_2.d2e249" xml:lang="ar-Latn-x-ijmes">qaṣāʾid</foreign> was published in 1910. This claim is supported by an article in <ref
+                change="#d2e230 #d2e243" target="https://openarabicpe.github.io/digital-muqtabas/xml/oclc_4770057679-i_45.TEIP5.xml#div_5.d1e1088" xml:id="ref_1.d2e252" xml:lang="en"><bibl
+                change="#d2e230 #d2e243" xml:id="bibl_2.d2e253" xml:lang="en"><title change="#d2e230 #d2e243" level="j" xml:id="title_7.d2e254" xml:lang="ar-Latn-x-ijmes"
                 >al-Muqtabas</title> 4 (10)</bibl></ref> announcing the publication of the Dīwān. The latter claimed that, since <persName change="#d2e230 #d2e243" xml:id="persName_15.d2e258"
                 xml:lang="ar-Latn-x-ijmes">al-Ruṣāfī</persName> had published many of his poems in <title change="#d2e230 #d2e243" level="j" xml:id="title_8.d2e262" xml:lang="ar-Latn-x-ijmes"
                 >al-Muqtabas</title>, he had come to be known as "The Poet of <title change="#d2e230 #d2e243" level="j" xml:id="title_9.d2e265" xml:lang="ar-Latn-x-ijmes"
                 >al-Muqtabas</title>" and that three fourths of the Dīwān had previously been published in <title change="#d2e230 #d2e243" level="j" xml:id="title_10.d2e268" xml:lang="ar-Latn-x-ijmes"
-                >al-Muqtabas</title>. This claim is patently false. <title change="#d2e230 #d2e243" level="j" xml:id="title_11.d2e271" xml:lang="ar-Latn-x-ijmes">al-Muqtabas</title> only published 26 <foreign
-                change="#d2e230 #d2e243" xml:id="foreign_3.d2e274" xml:lang="ar-Latn-x-ijmes">qaṣāʾid</foreign> of <persName change="#d2e230 #d2e243" xml:id="persName_16.d2e277" xml:lang="ar-Latn-x-ijmes"
-                >al-Ruṣāfī</persName>—all before his Dīwān was announced—and the Dīwān gathered some 100 of them.</p>
+                >al-Muqtabas</title>. This claim is patently false. <title change="#d2e230 #d2e243" level="j" xml:id="title_11.d2e271" xml:lang="ar-Latn-x-ijmes"
+                >al-Muqtabas</title> only published 26 <foreign change="#d2e230 #d2e243" xml:id="foreign_3.d2e274" xml:lang="ar-Latn-x-ijmes">qaṣāʾid</foreign> of <persName change="#d2e230 #d2e243"
+                xml:id="persName_16.d2e277" xml:lang="ar-Latn-x-ijmes">al-Ruṣāfī</persName>—all before his Dīwān was announced—and the Dīwān gathered some 100 of them.</p>
         </front>
         <body change="#d2e208 #d2e243" xml:id="body_1.d2e217" xml:lang="ar">
             <pb change="#d2e230" ed="print" n="17" xml:id="pb_1.d2e284"/>
