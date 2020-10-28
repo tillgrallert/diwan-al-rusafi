@@ -62,7 +62,7 @@
                             <date change="#d2e208" type="official" when="1910" xml:id="date_2.d2e173" xml:lang="ar">١٩١٠</date>
                             <date calendar="#cal_islamic" change="#d2e230" datingMethod="#cal_islamic" type="official" when-custom="1328" xml:id="date_3.d2e178" xml:lang="ar">١٣٢٨</date>
                         </imprint>
-                        <biblScope unit="page" from="1" to="232" xml:lang="en">232 pages</biblScope>
+                        <biblScope from="1" to="232" unit="page" xml:lang="en">232 pages</biblScope>
                     </monogr>
                 </biblStruct>
             </sourceDesc>
@@ -160,12 +160,14 @@
                     <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_23.TEIP5.xml" parse="xml" xml:id="xi:include_8.d2e391" xpointer="div_8.d1e2039"/>
                     <!-- reprint in al-Manār -->
                     <xi:include change="#d2e230" href="../../../OpenArabicPE/journal_al-manar/tei/oclc_1588981-v_13-i_2.TEIP5.xml" parse="xml" xml:id="xi:include_9.d2e395" xpointer="div_16.d2e2298"/>
+                    <pb ed="print" n="56"/>
                 </div>
                 <div change="#d2e208 #d2e243" n="9" subtype="verse" type="item" xml:id="div_9.d2e268" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_9.d2e270" xml:lang="ar">السجن في <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:216 geon:98182" xml:id="placeName_3.d2e272"
                         xml:lang="ar">بغداد</placeName></head>
                     <!-- originally published by al-Muqtabas -->
                     <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_22.TEIP5.xml" parse="xml" xml:id="xi:include_10.d2e407" xpointer="div_9.d1e1772"/>
+                    <pb ed="print" n="61"/>
                 </div>
                 <div change="#d2e208 #d2e243" n="10" subtype="verse" type="item" xml:id="div_10.d2e276" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_10.d2e278" xml:lang="ar">الفقر و السقام</head>
