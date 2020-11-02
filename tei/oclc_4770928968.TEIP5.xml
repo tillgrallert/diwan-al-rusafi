@@ -179,9 +179,9 @@
                     <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_29.TEIP5.xml" parse="xml" xml:id="xi:include_11.d2e417" xpointer="div_6.d1e1333"/>
                     <pb ed="print" n="71"/>
                 </div>
-                <div type="item">
-                    <pb ed="print" n="75"/>
+                <div type="item" xml:lang="ar" subtype="verse">
                     <head>التربية والأمهات</head>
+                    <pb ed="print" n="75"/>
                 </div>
                 <div change="#d2e208 #d2e243" n="11" subtype="verse" type="item" xml:id="div_11.d2e282" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_11.d2e284" xml:lang="ar">اليتيم المخدوع</head>
