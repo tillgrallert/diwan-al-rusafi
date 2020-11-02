@@ -157,605 +157,470 @@
             </div>
             <pb change="#d2e230" ed="print" n="52" xml:id="pb_8.d2e377"/>
             <div change="#d2e230 #d2e243" type="section" xml:id="div_9.d2e379" xml:lang="ar">
-                <head change="#d2e230 #d2e243" xml:id="head_9.d2e381" xml:lang="ar"
-                    >الاحتجاعيات</head>
-                <div change="#d2e208 #d2e243" n="8" subtype="verse" type="item"
-                    xml:id="div_8.d2e262" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_8.d2e264" xml:lang="ar"
-                        >المطلقة</head>
+                <head change="#d2e230 #d2e243" xml:id="head_9.d2e381" xml:lang="ar">الاحتجاعيات</head>
+                <div change="#d2e208 #d2e243" n="8" subtype="verse" type="item" xml:id="div_8.d2e262" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_8.d2e264" xml:lang="ar">المطلقة</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_23.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_8.d2e391" xpointer="div_8.d1e2039"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_23.TEIP5.xml" parse="xml" xml:id="xi:include_8.d2e391" xpointer="div_8.d1e2039"/>
                     <!-- reprint in al-Manār -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/journal_al-manar/tei/oclc_1588981-v_13-i_2.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_9.d2e395" xpointer="div_16.d2e2298"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/journal_al-manar/tei/oclc_1588981-v_13-i_2.TEIP5.xml" parse="xml" xml:id="xi:include_9.d2e395" xpointer="div_16.d2e2298"/>
                     <pb ed="print" n="56"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="9" subtype="verse" type="item"
-                    xml:id="div_9.d2e268" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="9" subtype="verse" type="item" xml:id="div_9.d2e268" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_9.d2e270" xml:lang="ar">السجن في
-                            <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:216 geon:98182" xml:id="placeName_3.d2e272"
-                            xml:lang="ar">بغداد</placeName></head>
+                            <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:216 geon:98182"
+                        xml:id="placeName_3.d2e272" xml:lang="ar">بغداد</placeName></head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_22.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_10.d2e407" xpointer="div_9.d1e1772"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_22.TEIP5.xml" parse="xml" xml:id="xi:include_10.d2e407" xpointer="div_9.d1e1772"/>
                     <pb ed="print" n="61"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="10" subtype="verse" type="item"
-                    xml:id="div_10.d2e276" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="10" subtype="verse" type="item" xml:id="div_10.d2e276" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_10.d2e278" xml:lang="ar">الفقر و
                         السقام</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_29.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_11.d2e417" xpointer="div_6.d1e1333"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_29.TEIP5.xml" parse="xml" xml:id="xi:include_11.d2e417" xpointer="div_6.d1e1333"/>
                     <pb ed="print" n="71"/>
                 </div>
-                <div type="item" xml:lang="ar" subtype="verse">
+                <div subtype="verse" type="item" xml:lang="ar">
                     <head>التربية والأمهات</head>
                     <pb ed="print" n="75"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="11" subtype="verse" type="item"
-                    xml:id="div_11.d2e282" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="11" subtype="verse" type="item" xml:id="div_11.d2e282" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_11.d2e284" xml:lang="ar">اليتيم
                         المخدوع</head>
                 </div>
                 <pb ed="print" n="77"/>
-                <div change="#d2e208 #d2e243" n="12" subtype="verse" type="item"
-                    xml:id="div_12.d2e289" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="12" subtype="verse" type="item" xml:id="div_12.d2e289" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_12.d2e291" xml:lang="ar">تنبيه
                         النيام</head>
                 </div>
                 <pb ed="print" n="80"/>
-                <div change="#d2e208 #d2e243" n="13" subtype="verse" type="item"
-                    xml:id="div_13.d2e295" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="13" subtype="verse" type="item" xml:id="div_13.d2e295" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_13.d2e297" xml:lang="ar">إيقاظ
                         الرقود</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_38.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_12.d2e440" xpointer="div_2.d1e1421"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_38.TEIP5.xml" parse="xml" xml:id="xi:include_12.d2e440" xpointer="div_2.d1e1421"/>
                     <pb ed="print" n="86"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="14" subtype="verse" type="item"
-                    xml:id="div_14.d2e301" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="14" subtype="verse" type="item" xml:id="div_14.d2e301" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_14.d2e303" xml:lang="ar">اليتيم في
                         العيد</head>
                     <pb ed="print" n="93"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="15" subtype="verse" type="item"
-                    xml:id="div_15.d2e307" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="15" subtype="verse" type="item" xml:id="div_15.d2e307" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_15.d2e309" xml:lang="ar">ميت الأحياء
                         وحي الاموات</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_10.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_13.d2e456" xpointer="div_9.d1e1418"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_10.TEIP5.xml" parse="xml" xml:id="xi:include_13.d2e456" xpointer="div_9.d1e1418"/>
                     <pb ed="print" n="95"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="16" subtype="verse" type="item"
-                    xml:id="div_16.d2e313" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="16" subtype="verse" type="item" xml:id="div_16.d2e313" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_16.d2e315" xml:lang="ar">امة الشرق
                         او نحن في <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:216 geon:98182" xml:id="placeName_4.d2e317"
-                            xml:lang="ar">بغداد</placeName></head>
+                        ref="oape:place:216 geon:98182" xml:id="placeName_4.d2e317" xml:lang="ar">بغداد</placeName></head>
                 </div>
                 <pb ed="print" n="96"/>
-                <div change="#d2e208 #d2e243" n="17" subtype="verse" type="item"
-                    xml:id="div_17.d2e321" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="17" subtype="verse" type="item" xml:id="div_17.d2e321" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_17.d2e323" xml:lang="ar">رقية
                         الصريع</head>
                 </div>
                 <pb ed="print" n="99"/>
-                <div change="#d2e208 #d2e243" n="18" subtype="verse" type="item"
-                    xml:id="div_18.d2e328" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="18" subtype="verse" type="item" xml:id="div_18.d2e328" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_18.d2e330" xml:lang="ar">سوء
                         المنقلب</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_20.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_14.d2e481" xpointer="div_6.d1e1588"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_20.TEIP5.xml" parse="xml" xml:id="xi:include_14.d2e481" xpointer="div_6.d1e1588"/>
                     <pb ed="print" n="104"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="19" subtype="verse" type="item"
-                    xml:id="div_19.d2e334" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="19" subtype="verse" type="item" xml:id="div_19.d2e334" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_19.d2e336" xml:lang="ar">العادات
                         قاهرات</head>
                     <pb ed="print" n="107"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="20" subtype="verse" type="item"
-                    xml:id="div_20.d2e340" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="20" subtype="verse" type="item" xml:id="div_20.d2e340" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_20.d2e342" xml:lang="ar">ام
                         اليتيم</head>
                 </div>
                 <pb ed="print" n="112"/>
-                <div change="#d2e208 #d2e243" n="21" subtype="verse" type="item"
-                    xml:id="div_21.d2e346" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="21" subtype="verse" type="item" xml:id="div_21.d2e346" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_21.d2e348" xml:lang="ar">سياسة لا
                         حماسة</head>
                     <!-- later published in Lughat al-ʿArab 3(6): 281-282 -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/journal_lughat-al-arab/tei/oclc_472450345-i_30.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_15.d2e503" xpointer="div_2.d2e330"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/journal_lughat-al-arab/tei/oclc_472450345-i_30.TEIP5.xml" parse="xml" xml:id="xi:include_15.d2e503" xpointer="div_2.d2e330"
+                    />
                 </div>
                 <pb ed="print" n="114"/>
-                <div change="#d2e208 #d2e243" n="22" subtype="verse" type="item"
-                    xml:id="div_22.d2e352" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="22" subtype="verse" type="item" xml:id="div_22.d2e352" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_22.d2e354" xml:lang="ar">بعد
                         الاستور، سقوط <persName change="#d2e208 #d2e243" xml:id="persName_13.d2e356"
-                            xml:lang="ar">كامل باشا</persName></head>
+                        xml:lang="ar">كامل باشا</persName></head>
                     <pb ed="print" n="118"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="23" subtype="verse" type="item"
-                    xml:id="div_23.d2e360" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="23" subtype="verse" type="item" xml:id="div_23.d2e360" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_23.d2e362" xml:lang="ar">صديق
                         المضاع</head>
                     <pb ed="print" n="122"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="24" subtype="verse" type="item"
-                    xml:id="div_24.d2e367" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="24" subtype="verse" type="item" xml:id="div_24.d2e367" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_24.d2e369" xml:lang="ar">مثنيات
                         شعرية</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_33.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_16.d2e528" xpointer="div_5.d1e1329"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_33.TEIP5.xml" parse="xml" xml:id="xi:include_16.d2e528" xpointer="div_5.d1e1329"/>
                     <pb ed="print" n="125"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="25" subtype="verse" type="item"
-                    xml:id="div_25.d2e373" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="25" subtype="verse" type="item" xml:id="div_25.d2e373" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_25.d2e375" xml:lang="ar">بعد
                         البين</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_40.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_17.d2e538" xpointer="div_4.d1e832"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_40.TEIP5.xml" parse="xml" xml:id="xi:include_17.d2e538" xpointer="div_4.d1e832"/>
                 </div>
-                <pb ed="print" n="129"/>
             </div>
+            <pb ed="print" n="129"/>
             <div change="#d2e230 #d2e243" type="section" xml:lang="ar">
                 <head>التاريحيات</head>
-                <div change="#d2e208 #d2e243" n="26" subtype="verse" type="item"
-                    xml:id="div_26.d2e379" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="26" subtype="verse" type="item" xml:id="div_26.d2e379" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_26.d2e381" xml:lang="ar">جالينوس
                         العرب او <persName change="#d2e208 #d2e243" xml:id="persName_14.d2e383"
-                            xml:lang="ar">ابو بكر الرازي</persName></head>
+                        xml:lang="ar">ابو بكر الرازي</persName></head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_34.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_18.d2e550" xpointer="div_4.d1e956"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_34.TEIP5.xml" parse="xml" xml:id="xi:include_18.d2e550" xpointer="div_4.d1e956"/>
                     <pb ed="print" n="138"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="27" subtype="verse" type="item"
-                    xml:id="div_27.d2e387" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="27" subtype="verse" type="item" xml:id="div_27.d2e387" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_27.d2e389" xml:lang="ar">الحرب في
                         البحر</head>
                     <pb ed="print" n="141"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="28" subtype="verse" type="item"
-                    xml:id="div_28.d2e393" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="28" subtype="verse" type="item" xml:id="div_28.d2e393" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_28.d2e395" xml:lang="ar">هلا كو و
                         المستعصم</head>
                     <pb ed="print" n="146"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="29" subtype="verse" type="item"
-                    xml:id="div_29.d2e399" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="29" subtype="verse" type="item" xml:id="div_29.d2e399" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_29.d2e401" xml:lang="ar">ابو دلامة و
                         المستقبل</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_36.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_19.d2e572" xpointer="div_5.d2e3004"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_36.TEIP5.xml" parse="xml" xml:id="xi:include_19.d2e572" xpointer="div_5.d2e3004"/>
                     <pb ed="print" n="150"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="30" subtype="verse" type="item"
-                    xml:id="div_30.d2e406" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="30" subtype="verse" type="item" xml:id="div_30.d2e406" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_30.d2e408" xml:lang="ar">اطلال العلم
                         او المدرسة الظامية في <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:216 geon:98182" xml:id="placeName_5.d2e410"
-                            xml:lang="ar">بغداد</placeName></head>
+                        ref="oape:place:216 geon:98182" xml:id="placeName_5.d2e410" xml:lang="ar">بغداد</placeName></head>
                     <pb ed="print" n="152"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="31" subtype="verse" type="item"
-                    xml:id="div_31.d2e414" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="31" subtype="verse" type="item" xml:id="div_31.d2e414" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_31.d2e416" xml:lang="ar">في
-                            <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:236 geon:734077" xml:id="placeName_6.d2e418"
-                            xml:lang="ar">سلانيك</placeName></head>
+                            <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:236 geon:734077"
+                        xml:id="placeName_6.d2e418" xml:lang="ar">سلانيك</placeName></head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_39.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_20.d2e593" xpointer="div_5.d1e1387"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_39.TEIP5.xml" parse="xml" xml:id="xi:include_20.d2e593" xpointer="div_5.d1e1387"/>
                 </div>
                 <pb ed="print" n="156"/>
-                <div change="#d2e208 #d2e243" n="32" subtype="verse" type="item"
-                    xml:id="div_32.d2e422" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="32" subtype="verse" type="item" xml:id="div_32.d2e422" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_32.d2e424" xml:lang="ar">وقفة عند
                             <placeName change="#d2e208" xml:id="placeName_7.d2e426" xml:lang="ota"
-                            >يلدز</placeName></head>
+                        >يلدز</placeName></head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_41.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_21.d2e605" xpointer="div_7.d1e3728"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_41.TEIP5.xml" parse="xml" xml:id="xi:include_21.d2e605" xpointer="div_7.d1e3728"/>
                 </div>
                 <pb ed="print" n="159"/>
-                <div change="#d2e208 #d2e243" n="33" subtype="verse" type="item"
-                    xml:id="div_33.d2e430" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="33" subtype="verse" type="item" xml:id="div_33.d2e430" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_33.d2e432" xml:lang="ar">تموز
                         الحرية</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_40.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_22.d2e615" xpointer="div_14.d1e2780"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_40.TEIP5.xml" parse="xml" xml:id="xi:include_22.d2e615" xpointer="div_14.d1e2780"/>
                     <pb ed="print" n="160"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="34" subtype="verse" type="item"
-                    xml:id="div_34.d2e436" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="34" subtype="verse" type="item" xml:id="div_34.d2e436" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_34.d2e438" xml:lang="ar">المجلس
                         العمومي</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_35.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_23.d2e625" xpointer="div_3.d1e696"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_35.TEIP5.xml" parse="xml" xml:id="xi:include_23.d2e625" xpointer="div_3.d1e696"/>
                 </div>
-                <pb ed="print" n="163"/>
             </div>
+            <pb ed="print" n="163"/>
             <div change="#d2e230 #d2e243" type="section" xml:lang="ar">
                 <head>الوصفية</head>
-                <div change="#d2e208 #d2e243" n="35" subtype="verse" type="item"
-                    xml:id="div_35.d2e442" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_35.d2e444" xml:lang="ar"
-                        >الغروب</head>
+                <div change="#d2e208 #d2e243" n="35" subtype="verse" type="item" xml:id="div_35.d2e442" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_35.d2e444" xml:lang="ar">الغروب</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_24.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_24.d2e635" xpointer="div_9.d1e1716"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_24.TEIP5.xml" parse="xml" xml:id="xi:include_24.d2e635" xpointer="div_9.d1e1716"/>
                     <pb ed="print" n="165"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="36" subtype="verse" type="item"
-                    xml:id="div_36.d2e449" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="36" subtype="verse" type="item" xml:id="div_36.d2e449" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_36.d2e451" xml:lang="ar">ليلة في
                         ملهى</head>
                     <pb ed="print" n="168"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="37" subtype="verse" type="item"
-                    xml:id="div_37.d2e455" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="37" subtype="verse" type="item" xml:id="div_37.d2e455" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_37.d2e457" xml:lang="ar">في
                         القطار</head>
                     <pb ed="print" n="170"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="38" subtype="verse" type="item"
-                    xml:id="div_38.d2e461" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="38" subtype="verse" type="item" xml:id="div_38.d2e461" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_38.d2e463" xml:lang="ar">الجرائد و
                         ما كانت عليه في <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:3 geon:745044" xml:id="placeName_8.d2e465" xml:lang="ar"
-                            >الاستانة</placeName></head>
+                        ref="oape:place:3 geon:745044" xml:id="placeName_8.d2e465" xml:lang="ar">الاستانة</placeName></head>
                     <pb ed="print" n="172"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="39" subtype="verse" type="item"
-                    xml:id="div_39.d2e469" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="39" subtype="verse" type="item" xml:id="div_39.d2e469" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_39.d2e471" xml:lang="ar">وقفة في
                         الروض</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_31.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_25.d2e666" xpointer="div_10.d1e2096"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_31.TEIP5.xml" parse="xml" xml:id="xi:include_25.d2e666" xpointer="div_10.d1e2096"/>
                     <pb ed="print" n="174"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="40" subtype="verse" type="item"
-                    xml:id="div_40.d2e475" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="40" subtype="verse" type="item" xml:id="div_40.d2e475" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_40.d2e477" xml:lang="ar">ما رأيت في
                             <placeName change="#d2e208" xml:id="placeName_9.d2e479" xml:lang="ota"
-                            >بك اوغلى</placeName></head>
+                        >بك اوغلى</placeName></head>
                     <pb ed="print" n="177"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="41" subtype="verse" type="item"
-                    xml:id="div_41.d2e483" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_41.d2e485" xml:lang="ar"
-                        >الساعة</head>
+                <div change="#d2e208 #d2e243" n="41" subtype="verse" type="item" xml:id="div_41.d2e483" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_41.d2e485" xml:lang="ar">الساعة</head>
                     <!-- originally published by al-Muqtabas -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_28.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_26.d2e684" xpointer="div_25.d1e3388"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_28.TEIP5.xml" parse="xml" xml:id="xi:include_26.d2e684" xpointer="div_25.d1e3388"/>
                     <pb ed="print" n="178"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="42" subtype="verse" type="item"
-                    xml:id="div_42.d2e490" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="42" subtype="verse" type="item" xml:id="div_42.d2e490" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_42.d2e492" xml:lang="ar">السد في
-                            <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:216 geon:98182" xml:id="placeName_10.d2e494"
-                            xml:lang="ar">بغداد</placeName></head>
+                            <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:216 geon:98182"
+                        xml:id="placeName_10.d2e494" xml:lang="ar">بغداد</placeName></head>
                     <pb ed="print" n="180"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="43" subtype="verse" type="item"
-                    xml:id="div_43.d2e498" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="43" subtype="verse" type="item" xml:id="div_43.d2e498" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_43.d2e500" xml:lang="ar">ذكرى
-                            <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:203 geon:273607" xml:id="placeName_11.d2e502"
-                            xml:lang="ar">لبنان</placeName></head>
+                            <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:203 geon:273607"
+                        xml:id="placeName_11.d2e502" xml:lang="ar">لبنان</placeName></head>
                     <!-- published by al-Zuhūr  -->
-                    <xi:include change="#d2e230"
-                        href="../../../OpenArabicPE/journal_al-zuhur/tei/oclc_1034545644-i_6.TEIP5.xml"
-                        parse="xml" xml:id="xi:include_27.d2e705" xpointer="div_1.d2e2334"/>
+                    <xi:include change="#d2e230" href="../../../OpenArabicPE/journal_al-zuhur/tei/oclc_1034545644-i_6.TEIP5.xml" parse="xml" xml:id="xi:include_27.d2e705" xpointer="div_1.d2e2334"/>
                 </div>
                 <pb ed="print" n="184"/>
-                <div change="#d2e208 #d2e243" n="45" subtype="verse" type="item"
-                    xml:id="div_44.d2e506" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="45" subtype="verse" type="item" xml:id="div_44.d2e506" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_44.d2e508" xml:lang="ar">قصر
                         البحر</head>
                     <pb ed="print" n="185"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="46" subtype="verse" type="item"
-                    xml:id="div_45.d2e512" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="46" subtype="verse" type="item" xml:id="div_45.d2e512" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_45.d2e514" xml:lang="ar">وصف البدر
                         عند الافرنج</head>
                 </div>
                 <pb ed="print" n="186"/>
-                <div change="#d2e208 #d2e243" n="47" subtype="verse" type="item"
-                    xml:id="div_46.d2e518" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="47" subtype="verse" type="item" xml:id="div_46.d2e518" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_46.d2e520" xml:lang="ar">محاسن
                         الطبيعة</head>
                     <!-- First published in *al-ʿIrfān* 1(12), Dec 1909:568-570 -->
                 </div>
                 <pb ed="print" n="189"/>
-                <div change="#d2e208 #d2e243" n="48" subtype="verse" type="item"
-                    xml:id="div_47.d2e524" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="48" subtype="verse" type="item" xml:id="div_47.d2e524" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_47.d2e526" xml:lang="ar">ليلة في
-                            <placeName change="#d5e197 #d2e208 #d2e243"
-                            ref="oape:place:61 geon:170654" xml:id="placeName_12.d2e528"
-                            xml:lang="ar">دمشق</placeName></head>
+                            <placeName change="#d5e197 #d2e208 #d2e243" ref="oape:place:61 geon:170654"
+                        xml:id="placeName_12.d2e528" xml:lang="ar">دمشق</placeName></head>
                     <pb ed="print" n="190"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="49" subtype="verse" type="item"
-                    xml:id="div_48.d2e533" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="49" subtype="verse" type="item" xml:id="div_48.d2e533" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_48.d2e535" xml:lang="ar">حول
-                            <placeName change="#d2e208 #d2e243" xml:id="placeName_13.d2e537"
-                            xml:lang="ar">بوسفور</placeName></head>
+                            <placeName change="#d2e208 #d2e243" xml:id="placeName_13.d2e537" xml:lang="ar"
+                        >بوسفور</placeName></head>
                     <pb ed="print" n="191"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="50" subtype="verse" type="item"
-                    xml:id="div_49.d2e541" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="50" subtype="verse" type="item" xml:id="div_49.d2e541" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_49.d2e543" xml:lang="ar">اسمعي لي
                         كلاما</head>
                     <pb ed="print" n="192"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="51" subtype="verse" type="item"
-                    xml:id="div_50.d2e547" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="51" subtype="verse" type="item" xml:id="div_50.d2e547" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_50.d2e549" xml:lang="ar">في عود
                         تكسر</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="52" subtype="verse" type="item"
-                    xml:id="div_51.d2e553" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="52" subtype="verse" type="item" xml:id="div_51.d2e553" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_51.d2e555" xml:lang="ar">يطلب
                         جلنار</head>
                     <pb ed="print" n="193"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="53" subtype="verse" type="item"
-                    xml:id="div_52.d2e559" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="53" subtype="verse" type="item" xml:id="div_52.d2e559" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_52.d2e561" xml:lang="ar">ضاق
                         الخناق</head>
                 </div>
                 <pb ed="print" n="194"/>
-                <div change="#d2e208 #d2e243" n="54" subtype="verse" type="item"
-                    xml:id="div_53.d2e565" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="54" subtype="verse" type="item" xml:id="div_53.d2e565" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_53.d2e567" xml:lang="ar">ايتها
                         الكعاب</head>
                     <pb ed="print" n="195"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="55" subtype="verse" type="item"
-                    xml:id="div_54.d2e572" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="55" subtype="verse" type="item" xml:id="div_54.d2e572" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_54.d2e574" xml:lang="ar">هجاء بعض
                         المرائين من المشايخ</head>
                 </div>
                 <pb ed="print" n="196"/>
-                <div change="#d2e208 #d2e243" n="56" subtype="verse" type="item"
-                    xml:id="div_55.d2e578" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="56" subtype="verse" type="item" xml:id="div_55.d2e578" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_55.d2e580" xml:lang="ar">جاهل
                         متكبر</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="57" subtype="verse" type="item"
-                    xml:id="div_56.d2e584" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="57" subtype="verse" type="item" xml:id="div_56.d2e584" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_56.d2e586" xml:lang="ar">فاسق
                         مراء</head>
                     <pb ed="print" n="197"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="57" subtype="verse" type="item"
-                    xml:id="div_57.d2e590" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="57" subtype="verse" type="item" xml:id="div_57.d2e590" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_57.d2e592" xml:lang="ar">الطفل
                         الملتحي</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="58" subtype="verse" type="item"
-                    xml:id="div_58.d2e596" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="58" subtype="verse" type="item" xml:id="div_58.d2e596" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_58.d2e598" xml:lang="ar">ايها
                         المشنوق</head>
                     <!-- published in *al-ʿIrfān* 1(10), Oct 1909:477-478 -->
                     <pb ed="print" n="198"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="59" subtype="verse" type="item"
-                    xml:id="div_59.d2e602" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_59.d2e604" xml:lang="ar"
-                        >الارض</head>
+                <div change="#d2e208 #d2e243" n="59" subtype="verse" type="item" xml:id="div_59.d2e602" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_59.d2e604" xml:lang="ar">الارض</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="60" subtype="verse" type="item"
-                    xml:id="div_60.d2e609" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="60" subtype="verse" type="item" xml:id="div_60.d2e609" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_60.d2e611" xml:lang="ar">جواب على
                         كتاب</head>
                     <pb ed="print" n="199"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="61" subtype="verse" type="item"
-                    xml:id="div_61.d2e615" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="61" subtype="verse" type="item" xml:id="div_61.d2e615" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_61.d2e617" xml:lang="ar">الغنى غنى
                         النفس</head>
                     <pb ed="print" n="200"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="62" subtype="verse" type="item"
-                    xml:id="div_62.d2e621" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="62" subtype="verse" type="item" xml:id="div_62.d2e621" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_62.d2e623" xml:lang="ar">و
                         قال</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="63" subtype="verse" type="item"
-                    xml:id="div_63.d2e627" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="63" subtype="verse" type="item" xml:id="div_63.d2e627" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_63.d2e629" xml:lang="ar">شكر على
                         صنيع</head>
                     <pb ed="print" n="201"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="64" subtype="verse" type="item"
-                    xml:id="div_64.d2e633" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="64" subtype="verse" type="item" xml:id="div_64.d2e633" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_64.d2e635" xml:lang="ar">و
                         قال</head>
                     <pb ed="print" n="202"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="65" subtype="verse" type="item"
-                    xml:id="div_65.d2e639" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="65" subtype="verse" type="item" xml:id="div_65.d2e639" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_65.d2e641" xml:lang="ar">ليالي
                         الانس</head>
                     <pb ed="print" n="203"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="66" subtype="verse" type="item"
-                    xml:id="div_66.d2e646" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_66.d2e648" xml:lang="ar"
-                        >الشمس</head>
+                <div change="#d2e208 #d2e243" n="66" subtype="verse" type="item" xml:id="div_66.d2e646" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_66.d2e648" xml:lang="ar">الشمس</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="67" subtype="verse" type="item"
-                    xml:id="div_67.d2e652" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="67" subtype="verse" type="item" xml:id="div_67.d2e652" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_67.d2e654" xml:lang="ar">رئيس
                         الدائنية</head>
                 </div>
                 <pb ed="print" n="205"/>
-                <div change="#d2e208 #d2e243" n="68" subtype="verse" type="item"
-                    xml:id="div_68.d2e658" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="68" subtype="verse" type="item" xml:id="div_68.d2e658" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_68.d2e660" xml:lang="ar">راقم و ما
                         ادراك ما راقم</head>
                 </div>
                 <pb ed="print" n="206"/>
-                <div change="#d2e208 #d2e243" n="69" subtype="verse" type="item"
-                    xml:id="div_69.d2e664" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="69" subtype="verse" type="item" xml:id="div_69.d2e664" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_69.d2e666" xml:lang="ar">تأثير
                         التربية</head>
                     <pb ed="print" n="207"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="70" subtype="verse" type="item"
-                    xml:id="div_70.d2e670" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="70" subtype="verse" type="item" xml:id="div_70.d2e670" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_70.d2e672" xml:lang="ar">بين اليأس و
                         الرجاء</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="71" subtype="verse" type="item"
-                    xml:id="div_71.d2e676" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="71" subtype="verse" type="item" xml:id="div_71.d2e676" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_71.d2e678" xml:lang="ar">نقش على
                         ماء</head>
                     <pb ed="print" n="208"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="72" subtype="verse" type="item"
-                    xml:id="div_72.d2e683" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="72" subtype="verse" type="item" xml:id="div_72.d2e683" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_72.d2e685" xml:lang="ar">هوّة
                         الموت</head>
                 </div>
                 <pb ed="print" n="209"/>
-                <div change="#d2e208 #d2e243" n="73" subtype="verse" type="item"
-                    xml:id="div_73.d2e689" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="73" subtype="verse" type="item" xml:id="div_73.d2e689" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_73.d2e691" xml:lang="ar">و
                         قال</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="74" subtype="verse" type="item"
-                    xml:id="div_74.d2e695" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="74" subtype="verse" type="item" xml:id="div_74.d2e695" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_74.d2e697" xml:lang="ar">و
                         قال</head>
                     <pb ed="print" n="210"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="75" subtype="verse" type="item"
-                    xml:id="div_75.d2e701" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_75.d2e703" xml:lang="ar"
-                        >المكتب</head>
+                <div change="#d2e208 #d2e243" n="75" subtype="verse" type="item" xml:id="div_75.d2e701" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_75.d2e703" xml:lang="ar">المكتب</head>
                     <pb ed="print" n="211"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="76" subtype="verse" type="item"
-                    xml:id="div_76.d2e707" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="76" subtype="verse" type="item" xml:id="div_76.d2e707" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_76.d2e709" xml:lang="ar">اقبلت في
                         غلائل</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="77" subtype="verse" type="item"
-                    xml:id="div_77.d2e713" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="77" subtype="verse" type="item" xml:id="div_77.d2e713" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_77.d2e715" xml:lang="ar">كل امرئ و
                         صديقة</head>
                     <pb ed="print" n="212"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="78" subtype="verse" type="item"
-                    xml:id="div_78.d2e720" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="78" subtype="verse" type="item" xml:id="div_78.d2e720" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_78.d2e722" xml:lang="ar">النفس
                         الامارة</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="79" subtype="verse" type="item"
-                    xml:id="div_79.d2e726" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="79" subtype="verse" type="item" xml:id="div_79.d2e726" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_79.d2e728" xml:lang="ar">الانس في
                         غير موضعه كدر</head>
                     <pb ed="print" n="213"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="90" subtype="verse" type="item"
-                    xml:id="div_80.d2e732" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="90" subtype="verse" type="item" xml:id="div_80.d2e732" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_80.d2e734" xml:lang="ar">و
                         قال</head>
                 </div>
                 <pb ed="print" n="214"/>
-                <div change="#d2e208 #d2e243" n="91" subtype="verse" type="item"
-                    xml:id="div_81.d2e738" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_81.d2e740" xml:lang="ar"
-                        >البصره</head>
+                <div change="#d2e208 #d2e243" n="91" subtype="verse" type="item" xml:id="div_81.d2e738" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_81.d2e740" xml:lang="ar">البصره</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="92" subtype="verse" type="item"
-                    xml:id="div_82.d2e744" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="92" subtype="verse" type="item" xml:id="div_82.d2e744" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_82.d2e746" xml:lang="ar">الحرّ في
                         اغستوس</head>
                 </div>
                 <pb ed="print" n="215"/>
-                <div change="#d2e208 #d2e243" n="93" subtype="verse" type="item"
-                    xml:id="div_83.d2e750" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="93" subtype="verse" type="item" xml:id="div_83.d2e750" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_83.d2e752" xml:lang="ar">البرد في
                         كانون</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="94" subtype="verse" type="item"
-                    xml:id="div_84.d2e757" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_84.d2e759" xml:lang="ar"
-                        >معلقة</head>
+                <div change="#d2e208 #d2e243" n="94" subtype="verse" type="item" xml:id="div_84.d2e757" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_84.d2e759" xml:lang="ar">معلقة</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="95" subtype="verse" type="item"
-                    xml:id="div_85.d2e763" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="95" subtype="verse" type="item" xml:id="div_85.d2e763" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_85.d2e765" xml:lang="ar">من
                         قصيدة</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="96" subtype="verse" type="item"
-                    xml:id="div_86.d2e769" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="96" subtype="verse" type="item" xml:id="div_86.d2e769" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_86.d2e771" xml:lang="ar">في هجاء
                         بعضهم</head>
                 </div>
-                <div change="#d2e208 #d2e243" n="97" subtype="verse" type="item"
-                    xml:id="div_87.d2e775" xml:lang="ar">
-                    <head change="#d2e208 #d2e243" xml:id="head_87.d2e777" xml:lang="ar"
-                        >ايضاً</head>
+                <div change="#d2e208 #d2e243" n="97" subtype="verse" type="item" xml:id="div_87.d2e775" xml:lang="ar">
+                    <head change="#d2e208 #d2e243" xml:id="head_87.d2e777" xml:lang="ar">ايضاً</head>
                     <pb ed="print" n="217"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="98" subtype="verse" type="item"
-                    xml:id="div_88.d2e781" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="98" subtype="verse" type="item" xml:id="div_88.d2e781" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_88.d2e783" xml:lang="ar">في
                         المسرح</head>
                 </div>
                 <pb ed="print" n="218"/>
-                <div change="#d2e208 #d2e243" n="99" subtype="verse" type="item"
-                    xml:id="div_89.d2e787" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="99" subtype="verse" type="item" xml:id="div_89.d2e787" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_89.d2e789" xml:lang="ar">شكر و
                         وداع</head>
                     <pb ed="print" n="219"/>
                 </div>
-                <div change="#d2e208 #d2e243" n="100" subtype="verse" type="item"
-                    xml:id="div_90.d2e794" xml:lang="ar">
+                <div change="#d2e208 #d2e243" n="100" subtype="verse" type="item" xml:id="div_90.d2e794" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_90.d2e796" xml:lang="ar">النشيد
                         الوطني</head>
                 </div>
             </div>
         </body>
-        <back change="#d2e208" xml:id="back_1.d2e801"/>
+        <pb ed="print" n="221"/>
+        <back change="#d2e208" xml:id="back_1.d2e801" xml:lang="ar">
+            <div type="section">
+                <head>فهرس عام</head>
+            </div>
+        </back>
     </text>
 </TEI>
