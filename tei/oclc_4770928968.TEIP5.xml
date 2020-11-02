@@ -20,6 +20,9 @@
                         >fihris</foreign></resp>
                     <persName change="#d2e208" xml:id="pers_DH" xml:lang="tr">Dilan Hatun</persName>
                 </respStmt>
+                <respStmt change="#d2e208" xml:id="respStmt_1.d2e38" xml:lang="en">
+                    <resp change="#d2e208" xml:id="resp_1.d2e40" xml:lang="en">Page Number Edition</resp>
+                    <persName change="#d2e208" xml:id="pers_TG" xml:lang="en">Jakob Koppermann</persName>
             </titleStmt>
             <publicationStmt change="#d2e208 #d2e243" xml:id="publicationStmt_1.d2e59" xml:lang="en">
                 <authority change="#d2e208" xml:id="authority_1.d2e61" xml:lang="en"> <persName change="#d2e208" xml:id="persName_6.d2e63" xml:lang="en">Till Grallert</persName> </authority>
