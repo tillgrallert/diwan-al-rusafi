@@ -256,7 +256,8 @@
                 <pb change="#d2e269" ed="print" edRef="#edition_1" n="114" xml:id="pb_23.d2e581"/>
                 <div change="#d2e208 #d2e243" n="22" subtype="verse" type="item" xml:id="div_22.d2e352" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_22.d2e354" xml:lang="ar">بعد
-                        الاستور، سقوط <persName change="#d2e208 #d2e243" xml:id="persName_13.d2e356"
+                        الدستور</head>
+                    <head type="sub">سقوط <persName change="#d2e208 #d2e243" xml:id="persName_13.d2e356"
                         xml:lang="ar">كامل باشا</persName></head>
                     <pb change="#d2e269" ed="print" edRef="#edition_1" n="118" xml:id="pb_24.d2e590"/>
                 </div>
