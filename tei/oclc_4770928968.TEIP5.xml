@@ -23,6 +23,8 @@
                 <respStmt change="#d2e208" xml:id="respStmt_1.d2e38" xml:lang="en">
                     <resp change="#d2e208" xml:id="resp_1.d2e40" xml:lang="en">Page Number Edition</resp>
                     <persName change="#d2e208" xml:id="pers_TG" xml:lang="en">Jakob Koppermann</persName>
+                </respStmt>
+                
             </titleStmt>
             <publicationStmt change="#d2e208 #d2e243" xml:id="publicationStmt_1.d2e59" xml:lang="en">
                 <authority change="#d2e208" xml:id="authority_1.d2e61" xml:lang="en"> <persName change="#d2e208" xml:id="persName_6.d2e63" xml:lang="en">Till Grallert</persName> </authority>
@@ -176,7 +178,11 @@
                     <head change="#d2e208 #d2e243" xml:id="head_10.d2e278" xml:lang="ar">الفقر و السقام</head>
                     <!-- originally published by al-Muqtabas -->
                     <xi:include change="#d2e230" href="../../../OpenArabicPE/digital-muqtabas/xml/oclc_4770057679-i_29.TEIP5.xml" parse="xml" xml:id="xi:include_11.d2e417" xpointer="div_6.d1e1333"/>
+                    <pb ed="print" n="71"/>
+                </div>
+                <div type="item">
                     <pb ed="print" n="75"/>
+                    <head>التربية والأمهات</head>
                 </div>
                 <div change="#d2e208 #d2e243" n="11" subtype="verse" type="item" xml:id="div_11.d2e282" xml:lang="ar">
                     <head change="#d2e208 #d2e243" xml:id="head_11.d2e284" xml:lang="ar">اليتيم المخدوع</head>
